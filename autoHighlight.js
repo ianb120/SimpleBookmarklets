@@ -1,1 +1,0 @@
-javascript:document.addEventListener('click',(event) => {let getCurrentElement = event.target; getCurrentElement.style.border = '5px solid #86C232';});
